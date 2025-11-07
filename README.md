@@ -15,11 +15,7 @@ Each link directs users to a dedicated HTML page that includes:
 - A list of ingredients (using unordered lists `<ul>`)
 - Step-by-step cooking instructions (using ordered lists `<ol>`)
 
-The recipes featured in this project include:
-
-- **Bakso Daging Sapi Kenyal** (Chewy Beef Meatballs)
-- **Mie Ayam Komplit** (Complete Chicken Noodle Soup)
-- **Nasi Goreng Rumahan** (Homemade Fried Rice)
+The recipes featured in this project include some indonesian food.
 
 ---
 
